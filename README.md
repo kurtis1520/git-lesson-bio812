@@ -5,3 +5,5 @@ I am awesome
 soon chips
 
 # You'll share with Danielle 
+
+Kurtis blink twice if you are happy. blink once if you are sad -Brody
